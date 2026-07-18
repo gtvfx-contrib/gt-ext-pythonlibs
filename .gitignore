@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Prebuilt distribution — fetched from the asset store at publish time
+# The bare form also matches a symlink pointing to the asset store.
+/prebuilt
+
 # C extensions
 *.so
 

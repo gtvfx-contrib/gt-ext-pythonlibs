@@ -1,4 +1,4 @@
 {
-    "+=PYTHONPATH": "${__BUNDLE__}/prebuilt/windows_${PYTHON_STR_VERSION}/site-packages",
-    "+=PATH": "${__BUNDLE__}/prebuilt/windows_${PYTHON_STR_VERSION}/Scripts"
+    "+=PYTHONPATH": "${__BUNDLE__}/prebuilt/win64_${PYTHON_STR_VERSION}/site-packages",
+    "+=PATH": "${__BUNDLE__}/prebuilt/win64_${PYTHON_STR_VERSION}/Scripts"
 }
